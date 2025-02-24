@@ -4,6 +4,9 @@
 ## **Overview**  
 Synapse is an **AI-driven health chatbot** designed to provide **personalized medical insights**, recommend doctors, and set health reminders. It utilizes **Retrieval-Augmented Generation (RAG)** with **LLM-based response generation**, ensuring accurate and context-aware interactions.  
 
+![architecture poster](https://github.com/83Gh0st/Synapse/blob/main/2025-02-24_18-22.png)
+
+
 ## **Features**  
 ✅ **LLM-powered health assistant** – Provides accurate medical insights using AI.  
 ✅ **RAG (Retrieval-Augmented Generation)** – Enhances response accuracy by retrieving relevant medical knowledge.  
@@ -11,7 +14,6 @@ Synapse is an **AI-driven health chatbot** designed to provide **personalized me
 ✅ **Medication & appointment reminders** – Helps users stay on track with health schedules.  
 ✅ **Scalable & efficient** – Built with vector databases for fast retrieval (<200ms).  
 
-![architecture poster](https://github.com/83Gh0st/Synapse/blob/main/2025-02-24_18-22.png)
 
 ---
 
@@ -41,7 +43,7 @@ The chatbot follows a modular **RAG-based** architecture:
 
 ### **System Diagram**  
 
-![diagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zeniteq.com%2Fblog%2Fwhy-should-you-add-an-ai-chatbot-to-your-website-here-are-5-reasons&psig=AOvVaw3hWKFca1Rghi0nh_D_6Gb-&ust=1740487658101000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjC8IOs3IsDFQAAAAAdAAAAABAE)
+![diagram](https://github.com/83Gh0st/Synapse/blob/main/2025-02-24_18-32.png)
 
 
 ---
