@@ -11,6 +11,8 @@ Synapse is an **AI-driven health chatbot** designed to provide **personalized me
 ✅ **Medication & appointment reminders** – Helps users stay on track with health schedules.  
 ✅ **Scalable & efficient** – Built with vector databases for fast retrieval (<200ms).  
 
+[architecture poster](!https://github.com/83Gh0st/Synapse/blob/main/2025-02-24_18-22.png)
+
 ---
 
 ## **Table of Contents**  
