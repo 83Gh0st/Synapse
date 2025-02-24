@@ -1,5 +1,5 @@
 
-# **Synapse AI-Powered Health Chatbot **  
+# SYNAPSE AI-Powered Health Chatbot 
 
 ## **Overview**  
 Synapse is an **AI-driven health chatbot** designed to provide **personalized medical insights**, recommend doctors, and set health reminders. It utilizes **Retrieval-Augmented Generation (RAG)** with **LLM-based response generation**, ensuring accurate and context-aware interactions.  
