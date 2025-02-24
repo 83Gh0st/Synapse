@@ -41,7 +41,7 @@ The chatbot follows a modular **RAG-based** architecture:
 
 ### **System Diagram**  
 
-![AI Chatbot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zeniteq.com%2Fblog%2Fwhy-should-you-add-an-ai-chatbot-to-your-website-here-are-5-reasons&psig=AOvVaw3hWKFca1Rghi0nh_D_6Gb-&ust=1740487658101000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjC8IOs3IsDFQAAAAAdAAAAABAE)
+![AIChatbot(https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.zeniteq.com%2Fblog%2Fwhyshouldyouaddanaichatbottoyourwebsitehereare5reasons&psig=AOvVaw3hWKFca1Rghi0nh_D_6Gb&ust=1740487658101000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjC8IOs3IsDFQAAAAAdAAAAABAE)
 
 
 ---
